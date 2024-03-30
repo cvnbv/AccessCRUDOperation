@@ -1,0 +1,30 @@
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\bin\Debug\VeriTabanıÇalışması.exe.config
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\bin\Debug\VeriTabanıÇalışması.exe
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\bin\Debug\VeriTabanıÇalışması.pdb
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.Form1.resources
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.Properties.Resources.resources
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.exe
+C:\Users\ahmet\source\repos\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.pdb
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\bin\Debug\VeriTabanıÇalışması.exe.config
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\bin\Debug\VeriTabanıÇalışması.exe
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\bin\Debug\VeriTabanıÇalışması.pdb
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.csproj.AssemblyReference.cache
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.Form1.resources
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.Properties.Resources.resources
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.csproj.GenerateResource.cache
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.exe
+C:\Users\Ahmet Can Bozkurt\OneDrive\Masaüstü\VeriTabanıÇalışması\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.pdb
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\bin\Debug\VeriTabanıÇalışması.exe.config
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\bin\Debug\VeriTabanıÇalışması.exe
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\bin\Debug\VeriTabanıÇalışması.pdb
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.Form1.resources
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.Properties.Resources.resources
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.exe
+C:\Users\Huawei\OneDrive\Projeler\Projeler\Access Veritabanında CRUD işlemleri\VeriTabanıÇalışması\obj\Debug\VeriTabanıÇalışması.pdb
